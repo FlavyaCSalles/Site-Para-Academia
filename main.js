@@ -9,7 +9,7 @@ window.onscroll = () =>{
     menu.classList.remove('fa-times');
     navbar.classList.remove('active');
 };
-/* Slides */
+/* Slides*/
 
 var swiper = new Swiper(".home-slider", {
     spaceBetween: 20,
